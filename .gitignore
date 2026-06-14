@@ -1,0 +1,10 @@
+**pycache**/
+*.pyc
+
+.env
+
+config.py
+
+log.txt
+
+.vscode/
